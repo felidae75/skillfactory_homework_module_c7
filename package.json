@@ -1,0 +1,25 @@
+{
+  "name": "module_c7",
+  "version": "1.0.0",
+  "description": "module_c7",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felidae75/skillfactory_homework_module_c7.gitt"
+  },
+  "author": "f",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felidae75/skillfactory_homework_module_c7/issues"
+  },
+  "homepage": "https://github.com/felidae75/skillfactory_homework_module_c7#readme",
+  "devDependencies": {
+    "@babel/core": "^7.21.4",
+    "@babel/preset-env": "^7.21.4",
+    "babel-jest": "^29.5.0",
+    "jest": "^29.5.0"
+  }
+}
